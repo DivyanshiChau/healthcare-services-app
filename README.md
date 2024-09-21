@@ -1,8 +1,4 @@
 
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
-
----
-
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
@@ -107,3 +103,20 @@ npm run build
 surge public my-project.surge.sh
 ```
 # healthcare-services-app
+A simple Svelte web application to manage healthcare services.
+
+## Features
+- Add new healthcare services
+- Update existing services
+- Delete services
+- Input validation
+
+## Setup
+1. Clone the repository
+2. Navigate to the project directory
+3. Run `npm install`
+4. Run `npm run dev`
+5. Open `http://localhost:5000` in your browser
+
+## Deployment
+Follow the instructions on Vercel or Netlify to deploy your application.
