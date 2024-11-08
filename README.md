@@ -1,4 +1,4 @@
-# healthcare-services-app
+# Healthcare-services-app
 A simple Svelte web application to manage healthcare services.
 
 ## Features
